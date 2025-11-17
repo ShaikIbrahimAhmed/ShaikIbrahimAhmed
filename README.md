@@ -32,7 +32,15 @@ I enjoy learning new technologies and building small projects to sharpen my skil
   <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="28" />
 </div>
 
+---
 
+<p align="center">
+  <img 
+    src="https://media.tenor.com/72IKMecmpKAAAAAM/demon-slayer-tanjiro.gif" 
+    alt="Tanjiro GIF"
+    style="height: 350px; border-radius: 30px; margin-top:50px;" 
+  />
+</p>
 
 ---
 
