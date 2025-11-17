@@ -1,29 +1,6 @@
 <p align="center">
-  <span class="typing">Hello, Welcome to my Profile. I am Shaik Ibrahim Ahmed</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Hello%2C+Welcome+to+my+Profile.;I+am+Shaik+Ibrahim+Ahmed" alt="Typing SVG" />
 </p>
-
-<style>
-.typing {
-  font-size: 22px;
-  font-weight: bold;
-  border-right: 3px solid #333;
-  white-space: nowrap;
-  overflow: hidden;
-  width: 0;
-  animation: typing 4s steps(60, end) forwards, blink 0.7s step-end infinite alternate;
-}
-
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-
-@keyframes blink {
-  from, to { border-color: transparent; }
-  50% { border-color: #333; }
-}
-</style>
-
 
 
 ---
