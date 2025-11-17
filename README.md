@@ -36,7 +36,7 @@ I enjoy learning new technologies and building small projects to sharpen my skil
 
 <p align="center">
   <img 
-    src="https://giffiles.alphacoders.com/147/147599.gif" 
+    src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMTJvdnVkczM0YzVla2FuajdmYjhva216ZDlqamN6ZWw0ZGQ5bmtqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif" 
     alt="GIF"
     style="height: 350px; border-radius: 30px; margin-top:50px;" 
   />
