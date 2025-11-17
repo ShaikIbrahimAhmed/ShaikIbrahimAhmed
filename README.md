@@ -36,7 +36,7 @@ I enjoy learning new technologies and building small projects to sharpen my skil
 
 <p align="center">
   <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Wk7P324WJ37mSL7ui17moSQ1TaJD_Tye3g&s" 
+    src="https://tenor.com/en-GB/view/typing-anime-coding-gif-13243654847988652639" 
     alt="Tanjiro GIF"
     style="height: 350px; border-radius: 30px; margin-top:50px;" 
   />
