@@ -15,30 +15,25 @@ I enjoy learning new technologies and building small projects to sharpen my skil
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdupencheng16@gmail.com) 
 
 ---
-# 💻 Tech Stack  
-<div align="center">
+## 🛠️ Tools & Tech Stack  
 
-  <!-- Coding -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind css logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" />
+<!-- FIRST ROW — 6 icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="50" />
+</p>
 
-</div>
-<br>
-<div align='center'>
-  <!-- Design & Tools -->  
-
-  <!-- Office Tools (Working icons alternative) -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" height="28" />
+<!-- SECOND ROW — 4 icons -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" /> 
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" height="28" /> 
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" height="28" /> 
   <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="28" />
-</div>
-
----
+</p>
 
 <p align="center">
   <img 
