@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5FA8D3&center=true&vCenter=true&width=600&lines=Hello%2C+Welcome+to+my+Profile.;I+am+Shaik+Ibrahim+Ahmed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5FA8D3&center=true&vCenter=true&width=650&lines=Hello+👋%2C+Welcome+to+my+Profile.;I+am+Shaik+Ibrahim+Ahmed.;I+am+in+9th+Class.;I+work+with+Python%2C+Tailwind%2C+Photoshop." alt="Typing SVG" />
 </p>
-
 
 ---
 
