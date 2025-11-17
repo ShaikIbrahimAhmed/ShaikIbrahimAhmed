@@ -36,7 +36,7 @@ I enjoy learning new technologies and building small projects to sharpen my skil
 
 <p align="center">
   <img 
-    src="https://media.tenor.com/72IKMecmpKAAAAAM/demon-slayer-tanjiro.gif" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Wk7P324WJ37mSL7ui17moSQ1TaJD_Tye3g&s" 
     alt="Tanjiro GIF"
     style="height: 350px; border-radius: 30px; margin-top:50px;" 
   />
