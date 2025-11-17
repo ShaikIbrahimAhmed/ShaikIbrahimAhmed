@@ -36,7 +36,7 @@ I enjoy learning new technologies and building small projects to sharpen my skil
 
 <p align="center">
   <img 
-    src="https://media1.tenor.com/m/1ybUFYQpNDgAAAAC/death-note-light-yagami.gif" 
+    src="https://giffiles.alphacoders.com/147/147599.gif" 
     alt="GIF"
     style="height: 350px; border-radius: 30px; margin-top:50px;" 
   />
