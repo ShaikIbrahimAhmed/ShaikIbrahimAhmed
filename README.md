@@ -36,8 +36,8 @@ I enjoy learning new technologies and building small projects to sharpen my skil
 
 <p align="center">
   <img 
-    src="https://tenor.com/en-GB/view/typing-anime-coding-gif-13243654847988652639" 
-    alt="Tanjiro GIF"
+    src="https://media1.tenor.com/m/1ybUFYQpNDgAAAAC/death-note-light-yagami.gif" 
+    alt="GIF"
     style="height: 350px; border-radius: 30px; margin-top:50px;" 
   />
 </p>
